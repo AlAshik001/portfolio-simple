@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project is built using **HTML** and **CSS** to showcase my skills, projects, and contact details in a simple and elegant design.
 
 ## 🖥️ Live Demo
-Check out the live version: [Click Here](https://your-project-link.com)
+Check out the live version: [Click Here](https://alashik001.github.io/portfolio-simple/)
 
 ## 📌 Features
 - 🔹 Clean and minimalistic UI  
